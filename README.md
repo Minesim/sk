@@ -1,0 +1,2 @@
+# sk
+sieci komputerowe
